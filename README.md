@@ -11,7 +11,7 @@ Have you ever dealt with not being able to choose which restaurant to eat at?? W
 
 
 #### ERD
-<img src="./project_assets/erd.jpg" style="width: 150px;">
+<img src="./assets/erd.jpg" style="width: 150px;">
 
 #### Checkout my [Trello](https://trello.com/b/GPSYsDfl/project-restaurant)!
 #### Technologies used:
